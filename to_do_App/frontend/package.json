@@ -11,9 +11,11 @@
         "react": "latest",
         "react-dom": "latest",
         "react-router-dom": "latest",
-        "axios": "latest"
+        "axios": "latest",
+        "redux": "latest"
     },
     "devDependencies": {
+        "eslint": "7.32.0",
         "react": "17.0.2",
         "webpack": "latest",
         "axios": "latest"
